@@ -1,1 +1,4 @@
 created file
+using cat or echo or touch 
+crating file should be in folder
+folder should be uplad remotely
